@@ -1,0 +1,19 @@
+{
+  "name": "registration-form",
+  "version": "1.0.0",
+  "description": "Registration form for a cool website.",
+  "main": "index.js",
+  "scripts": {
+    "live-server": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ourandco/Registration-Form.git"
+  },
+  "author": "Alamgir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ourandco/Registration-Form/issues"
+  },
+  "homepage": "https://github.com/ourandco/Registration-Form#readme"
+}
