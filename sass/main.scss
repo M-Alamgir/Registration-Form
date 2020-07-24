@@ -14,7 +14,7 @@ body {
 
 .container {
     margin: 10vh 0 0 20vh;
-    width: 300px;
+    width: 400px;
     padding: 30px 40px;
 }
 
@@ -24,26 +24,40 @@ h2 {
 }
 
 .form-control{
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     text-align: center;
 
     & input{
         display: block;
         margin: 10px 0;
-        padding: 12px 10px;
+        padding: 12px 45px;
         font-size: 14px;
         font-weight: 400;
-        width: 100%;
+        width: 50%;
         border-radius: 100px;
         border: 1px solid rgb(182, 182, 182);
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+        color:rgb(87, 87, 87);
 
         &:focus {
             outline: none;
         }
     }
+
     
     & small {
         visibility: hidden;
     }
+  
+}
+.email {
+    background: url(../img/email.png) no-repeat scroll 10px 8px;
+    background-color: #fff;
+    background-size:25px;
     
+}
+.password {
+    background: url(../img/lock.png) no-repeat scroll 10px 8px;
+    background-color: #fff;
+    background-size:25px;
 }
