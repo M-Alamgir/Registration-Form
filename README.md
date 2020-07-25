@@ -7,7 +7,9 @@ No Framework/Libraries were used.
 ## Languages.
 HTML<br/>
 CSS<br/>
-Vanilla javascript
+Vanilla javascript.
+
+#### Sass Framework, NPM package and BEM methadology.
 
 ## Author
-Alamgir
+M. Alamgir
