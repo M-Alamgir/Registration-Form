@@ -1,10 +1,12 @@
+# Live Demo.
+check out live demo here :
 # Registration Form.
 This Registration form was created to practice HTML,CSS and Javascript skills.
 No Framework/Libraries were used.
 
 ## Languages.
-HTML
-CSS
+HTML<br/>
+CSS<br/>
 Vanilla javascript
 
 ## Author
