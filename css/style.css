@@ -14,65 +14,9 @@ body {
   background-size: cover; }
 
 .container {
-  margin: 10vh 0 0 20vh;
-  width: 40rem; }
+  position: relative; }
 
-h2 {
-  text-align: center;
-  margin-bottom: 40px;
-  font-weight: 900;
-  font-size: 2.5rem;
-  color: #eee;
-  text-shadow: 0 5px 10px rgba(0, 0, 0, 0.3); }
-
-form {
-  text-align: center; }
-
-.form-control {
-  margin-bottom: 10px; }
-  .form-control input {
-    display: block;
-    margin: 0 auto;
-    padding: 12px 45px;
-    font-size: 14px;
-    font-weight: 400;
-    width: 25rem;
-    border-radius: 100px;
-    border: 1px solid #b6b6b6;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-    color: #575757; }
-    .form-control input:focus {
-      outline: none; }
-  .form-control small {
-    visibility: hidden; }
-
-.email {
-  background: url(../img/email.png) no-repeat scroll 10px 8px;
-  background-color: #fff;
-  background-size: 25px; }
-
-.password {
-  background: url(../img/lock.png) no-repeat scroll 10px 8px;
-  background-color: #fff;
-  background-size: 25px; }
-
-.btn-submit {
-  outline: none;
-  font-size: 16px;
-  font-weight: 400;
-  color: #fff;
-  width: 25rem;
-  height: 3.5rem;
-  border: none;
-  border-radius: 100px;
-  background-color: #0059ff;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-  transition: all .2s; }
-  .btn-submit:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-    cursor: pointer; }
-  .btn-submit:active {
-    transform: translateY(1px);
-    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
-    cursor: pointer; }
+.form {
+  position: absolute;
+  top: 10rem;
+  left: 10%; }
