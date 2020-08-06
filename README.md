@@ -7,7 +7,11 @@ No Framework/Libraries were used.
 ## Languages.
 HTML<br/>
 CSS<br/>
-Vanilla javascript.
+Vanilla javascript (adding soon..).
+
+## Resources
+Google fonts <br />
+line-awesome(font icons) <br />
 
 #### Sass Framework, NPM package and BEM methadology.
 
