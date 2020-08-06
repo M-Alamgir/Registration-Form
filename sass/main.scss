@@ -98,8 +98,8 @@ h2 {
             &:focus {
                 outline: none;
                 box-shadow: 0 1rem 2rem rgba(0 ,0 , 0, .3);
-                transform: scale(1.02);
                 border-bottom: 3px solid #28b485;
+                transform: scale(1.02);
 
                 &:invalid {
                     border-bottom: 3px solid #ff7730;
