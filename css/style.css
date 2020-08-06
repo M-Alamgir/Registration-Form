@@ -108,7 +108,13 @@ h2 {
     font-family: inherit;
     text-transform: uppercase;
     background-color: transparent;
-    cursor: pointer; }
+    cursor: pointer;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.4);
+    transition: all .2s; }
+    .form__submit:focus, .form__submit:active {
+      outline: none;
+      transform: translateY(1rem);
+      box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.4); }
     .form__submit::after {
       content: "";
       position: absolute;

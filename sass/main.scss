@@ -140,6 +140,15 @@ h2 {
         text-transform: uppercase;
         background-color: transparent;
         cursor: pointer;
+        box-shadow: 0 1rem 2rem rgba(0,0,0, .4);
+        transition: all .2s;
+
+        &:focus,
+        &:active {
+            outline: none;
+            transform: translateY(1rem);
+            box-shadow: 0 1rem 1rem rgba(0,0,0, .4);
+        }
         
         &::after {
             content: "";
