@@ -12,6 +12,7 @@ Vanilla javascript (adding soon..).
 ## Resources
 Google fonts <br />
 line-awesome(font icons) <br />
+unsplash.com(background image)<br />
 
 #### Sass Framework, NPM package and BEM methadology.
 
