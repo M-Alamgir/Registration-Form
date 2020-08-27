@@ -13,7 +13,7 @@ body {
     font-family: lato, sans-serif;
     box-sizing: border-box;
     height: 100vh;
-    background-image: url(../img/women.jpg);
+    background-image: linear-gradient(to right, rgba(99, 106, 121, .9) 35%, rgba(#ffffff, .3) 35%, rgba(#ffffff, .3) 100%),url(../img/women.jpg);
     background-size: cover;
 }
 
