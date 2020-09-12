@@ -20,4 +20,4 @@ unsplash.com(background image)<br />
 #### Sass Framework, NPM package and BEM methadology.
 
 ## Author
-M. Alamgir
+:bust_in_silhouette: M. Alamgir
