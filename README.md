@@ -1,3 +1,6 @@
+# Registration Form
+Registration form for html5 and css3 practice purpose.
+
 # Live Demo.
 check out live demo here : https://ourandco.github.io/Registration-Form/
 
@@ -21,3 +24,4 @@ unsplash.com(background image)<br />
 
 ## Author
 :bust_in_silhouette: M. Alamgir
+
