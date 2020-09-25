@@ -25,3 +25,16 @@ unsplash.com(background image)<br />
 ## Author
 :bust_in_silhouette: M. Alamgir
 
+## Show your support
+
+Give a ⭐️ if you like this project
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+#### Copyrights
+
+- Free to use.
+
+
