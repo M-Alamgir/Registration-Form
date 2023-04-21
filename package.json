@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ourandco/Registration-Form#readme",
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^8.0.0"
   }
 }
